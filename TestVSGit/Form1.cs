@@ -23,6 +23,10 @@ namespace TestVSGit
             Console.WriteLine("asdfasdfa");
             Console.WriteLine("asdfasdfa");
             Console.WriteLine("asdfasdfa");
+            Console.WriteLine("asdfasdfa");
+            Console.WriteLine("asdfasdfa");
+            Console.WriteLine("asdfasdfa");
+            Console.WriteLine("asdfasdfa");
         }
     }
 }
